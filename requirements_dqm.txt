@@ -1,0 +1,5 @@
+# Directed Quantum Measurement (DQM) - Python Environment
+qiskit==2.0.0
+qiskit-ibm-provider==0.9.0
+matplotlib
+numpy
